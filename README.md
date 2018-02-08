@@ -27,6 +27,7 @@ List of resources for beginners videogame developers
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg/featured)
 - [XAND](https://www.youtube.com/channel/UC7vsIJl_Hb7QNeioDPM5kSg)
 - [HeartBeast](https://www.youtube.com/user/uheartbeast/feed)
+- [Jeremy Bullock](https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g/featured)
 
 ### :floppy_disk:Resources
 
