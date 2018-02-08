@@ -1,5 +1,13 @@
+<<<<<<< HEAD:List.md
 # :memo:List
 
+=======
+# ResourcesVideoGameDevelopers
+List of resources for beginners videogame developers
+
+# :memo:List
+
+>>>>>>> origin/master:README.md
 ### :art:Inspirations
 
 - [Behance](https://www.behance.net)
