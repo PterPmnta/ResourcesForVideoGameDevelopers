@@ -1,13 +1,13 @@
-# List
+# :memo:List
 
-### Inspirations
+### :art:Inspirations
 
 - [Behance](https://www.behance.net)
 - [Dribble](https://dribbble.com/)
 - [Uplabs](https://www.uplabs.com/)
 - [Devianart](https://www.deviantart.com/)
 
-### Channels
+### :tv:Channels
 
 - [Hagamos Videojuegos](https://www.youtube.com/channel/UCBhkLrsmV9PVQMpT3qe-toA) - :es:
 - [Hektor Profe - Programación y Videojuegos](https://www.youtube.com/channel/UCtjAOyZmqDXO-Oz87cZnWgw) - :es:
@@ -20,22 +20,23 @@
 - [XAND](https://www.youtube.com/channel/UC7vsIJl_Hb7QNeioDPM5kSg)
 - [HeartBeast](https://www.youtube.com/user/uheartbeast/feed)
 
-### Resources
+### :floppy_disk:Resources
 
 - [Pixelprospector](http://www.pixelprospector.com/indie-resources/)
 - [Gamedevelopertips](http://gamedevelopertips.com/)
 - [2dgameartguru](http://www.2dgameartguru.com/)
 - [Opengameart](https://opengameart.org/)
 - [Kenney](http://kenney.nl/)
+- [Packtpub](https://packtpub.com)
 
-### Audio
+### :sound:Audio
 
 - [Stockmusic](https://stockmusic.net/royalty-free-music)
 - [Soundjay](https://www.soundjay.com/index.html)
 - [Lmms](https://lmms.io/)
 - [dskmusic](http://www.dskmusic.com/)
 
-### Designer Software 
+### :black_nib:Designer Software 
 
 - [VoxelShop](https://blackflux.com/node/11)
 - [Qubicle](http://www.minddesk.com/)
@@ -50,7 +51,7 @@
 - [Aseprite](https://www.aseprite.org/)
 - [Spine](http://es.esotericsoftware.com/)
 
-### Game Engines, IDE and editor
+### :computer:Game Engines, IDE and editor
 
  - [Unity](https://unity3d.com/es)
  - [Cryengine](https://www.cryengine.com/)
@@ -66,7 +67,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime](https://www.sublimetext.com/)
 
-### Community
+### :couple:Community
 
 - [Game Development](https://gamedev.stackexchange.com/)
 - [Blender - StackExchange](https://blender.stackexchange.com/)
@@ -78,7 +79,7 @@
 - [Tsigsource](https://forums.tigsource.com/)
 - [Toucharcade](http://forums.toucharcade.com/)
 
-### Courses and Practice
+### :pencil2:Courses and Practice
 
 - [Zenva](https://academy.zenva.com/)
 - [Udemy](https://www.udemy.com/)
