@@ -28,6 +28,7 @@ List of resources for beginners videogame developers
 - [XAND](https://www.youtube.com/channel/UC7vsIJl_Hb7QNeioDPM5kSg)
 - [HeartBeast](https://www.youtube.com/user/uheartbeast/feed)
 - [Jeremy Bullock](https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g/featured)
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 ### :floppy_disk:Resources
 
