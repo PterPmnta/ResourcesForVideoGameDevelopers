@@ -57,6 +57,7 @@ List of resources for beginners videogame developers
 - [Piskelapp](https://www.piskelapp.com/)
 - [Aseprite](https://www.aseprite.org/)
 - [Spine](http://es.esotericsoftware.com/)
+- [Krita](https://krita.org/es/)
 
 ### :computer:Game Engines, IDE and editor
 
