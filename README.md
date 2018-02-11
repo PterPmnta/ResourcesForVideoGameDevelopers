@@ -11,6 +11,7 @@ List of resources for beginners videogame developers
 - [Dribble](https://dribbble.com/)
 - [Uplabs](https://www.uplabs.com/)
 - [Devianart](https://www.deviantart.com/)
+- [Artstation](https://www.artstation.com/)
 
 ### :tv:Channels
 
@@ -58,6 +59,7 @@ List of resources for beginners videogame developers
 - [Aseprite](https://www.aseprite.org/)
 - [Spine](http://es.esotericsoftware.com/)
 - [Krita](https://krita.org/es/)
+- [Sprytile](https://chemikhazi.itch.io/sprytile)
 
 ### :computer:Game Engines, IDE and editor
 
