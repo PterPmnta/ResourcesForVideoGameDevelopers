@@ -77,6 +77,8 @@ List of resources for beginners videogame developers
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime](https://www.sublimetext.com/)
 - [Coronalabs](https://coronalabs.com/)
+- [Haxe](https://haxe.org/)
+- [Gideros](http://giderosmobile.com/)
 
 ### :couple:Community
 
