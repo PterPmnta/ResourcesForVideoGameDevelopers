@@ -28,6 +28,7 @@ List of resources for beginners videogame developers
 - [Jeremy Bullock](https://www.youtube.com/channel/UCwJw2-V5S1TkBjLQ3_Ws54g/featured)
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 - [GameDevJon](https://www.youtube.com/user/Unity3DCoder)
+- [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 
 ### :floppy_disk:Resources
 
