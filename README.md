@@ -82,6 +82,9 @@ List of resources for beginners videogame developers
 - [Coronalabs](https://coronalabs.com/)
 - [Haxe](https://haxe.org/)
 - [Gideros](http://giderosmobile.com/)
+- [Bullet](https://github.com/bulletphysics/bullet3)
+- [Box2D](https://github.com/erincatto/Box2D)
+- [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
 
 ### :couple:Community
 
