@@ -85,6 +85,7 @@ List of resources for beginners videogame developers
 - [Bullet](https://github.com/bulletphysics/bullet3)
 - [Box2D](https://github.com/erincatto/Box2D)
 - [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
+- [Impact.js](https://github.com/phoboslab/Impact)
 
 ### :couple:Community
 
