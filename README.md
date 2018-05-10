@@ -29,6 +29,8 @@ List of resources for beginners videogame developers
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 - [GameDevJon](https://www.youtube.com/user/Unity3DCoder)
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+- [Atmos Game](https://www.youtube.com/channel/UCuHVjteDW9tCb8QqMrtGvwQ)
+- [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
 
 ### :floppy_disk:Resources
 
