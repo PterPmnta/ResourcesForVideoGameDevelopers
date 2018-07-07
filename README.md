@@ -66,6 +66,9 @@ List of resources for beginners videogame developers
 - [Spine](http://es.esotericsoftware.com/)
 - [Krita](https://krita.org/es/)
 - [Sprytile](https://chemikhazi.itch.io/sprytile)
+- [Piskel](https://github.com/piskelapp/piskel)
+- [Pixel Art to CSS](https://github.com/jvalen/pixel-art-react)
+- [Poxi](https://github.com/maierfelix/poxi)
 
 ### :computer:Game Engines, IDE and editor
 
