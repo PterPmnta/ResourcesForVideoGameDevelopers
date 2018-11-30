@@ -19,6 +19,7 @@ List of resources for beginners videogame developers
 - [Hektor Profe - Programación y Videojuegos](https://www.youtube.com/channel/UCtjAOyZmqDXO-Oz87cZnWgw) - :es:
 - [Guinxu](https://www.youtube.com/user/GuinxuVideos) - :es:
 - [Unity Institute](https://www.youtube.com/user/The23GamesStudio) - :es:
+- [Adderly Céspedes](https://www.youtube.com/user/adderly2dd/featured)
 - [TheMontyDrake](https://www.youtube.com/user/TheMontyDrake) - :es:
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
 - [Gamefromscratch](https://www.youtube.com/user/gamefromscratch)
