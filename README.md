@@ -72,6 +72,7 @@ List of resources for beginners videogame developers
 - [Piskel](https://github.com/piskelapp/piskel)
 - [Pixel Art to CSS](https://github.com/jvalen/pixel-art-react)
 - [Poxi](https://github.com/maierfelix/poxi)
+- [Pixelorama](https://www.orama-interactive.com/pixelorama)
 
 ### :computer:Game Engines, IDE and editor
 
