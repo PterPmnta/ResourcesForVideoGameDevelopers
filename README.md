@@ -34,6 +34,7 @@ List of resources for beginners videogame developers
 - [Atmos Game](https://www.youtube.com/channel/UCuHVjteDW9tCb8QqMrtGvwQ)
 - [Game Dev Underground](https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ)
 - [MortMort](https://www.youtube.com/user/atMNRArt/featured?disable_polymer=1)
+- [Randall](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg/featured)
 
 ### :floppy_disk:Resources
 
