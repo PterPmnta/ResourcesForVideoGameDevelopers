@@ -45,6 +45,7 @@ List of resources for beginners videogame developers
 - [Kenney](http://kenney.nl/)
 - [Packtpub](https://packtpub.com)
 - [Sketchfab](https://sketchfab.com/)
+- [3DModelsCC0](https://www.3dmodelscc0.com/)
 
 ### :sound:Audio
 
